@@ -1,0 +1,12 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project state
+.Rproj.user/
+
+# Local environment files
+.env
+.env.*
+!.env.example
